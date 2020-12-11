@@ -1,0 +1,73 @@
+/* Small Devices */
+@media only screen and (max-width: 767px) {
+    .brand-logo ul li:first-child {
+        margin-right: 15px;
+    }
+    .brand-logo ul li:last-child {
+        margin-left: 15px;
+    }
+    .p-r {
+        padding-right: 15px;
+    }
+    .p-l {
+        padding-left: 15px;
+    }
+    .creative img{
+        margin-bottom: 20px;
+    }
+    .services img{
+        height: fit-content;
+    }
+    .copyright{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .social-icons{
+        text-align: center;
+    }
+    .social-icons ul{
+        text-align: center;
+    }
+}
+/* Small Devices And Tablets */
+@media only screen and (max-width: 768px) {
+    .brand-logo ul li:first-child {
+        margin-right: 15px;
+    }
+    .brand-logo ul li:last-child {
+        margin-left: 15px;
+    }
+    .p-r {
+        padding-right: 15px;
+    }
+    .p-l {
+        padding-left: 15px;
+    }
+    .creative img{
+        margin-bottom: 20px;
+    }
+    .services img{
+        height: fit-content;
+    }
+    .copyright{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .social-icons{
+        text-align: center;
+    }
+    .social-icons ul{
+        text-align: center;
+    }
+}
+/* Medius Devices , Desktop */
+@media only screen and (min-width: 992px) {
+    
+    
+}
+
+/* Large Devices, Wide Screen */
+@media only screen and (min-width: 1200px) {
+    
+    
+}
