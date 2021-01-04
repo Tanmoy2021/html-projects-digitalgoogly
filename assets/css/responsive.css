@@ -28,6 +28,10 @@
     .social-icons ul{
         text-align: center;
     }
+    .right-top h2 {
+        font-size: 24px;
+        line-height: 48px;
+    }
 }
 /* Small Devices And Tablets */
 @media only screen and (max-width: 768px) {
